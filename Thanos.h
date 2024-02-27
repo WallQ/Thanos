@@ -4,7 +4,7 @@
 #include <filesystem>
 
 #if _DEBUG
-#define DELETE_PATH "C:\\Users\\WallQ\\Desktop\\testing"
+#define DELETE_PATH "C:\\Users\\WallQ\\Debug"
 #else
 #define DELETE_PATH "C:\\"
 #endif
